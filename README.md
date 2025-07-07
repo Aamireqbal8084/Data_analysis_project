@@ -40,5 +40,4 @@ Data cleaning, modeling, and visual storytelling
 Real-world impact analysis beyond traditional business use cases.
 
 8.Screenshots/Demos
-
-
+https://github.com/Aamireqbal8084/Data_analysis_project/blob/main/home_page.png
