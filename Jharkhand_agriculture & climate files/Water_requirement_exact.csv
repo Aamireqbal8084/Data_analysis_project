@@ -1,0 +1,19 @@
+Crop_id,Crop,Year,Etc (mm)[Kc*ETo],Rainfall (mm),Effective_rainfall,Water Required(NIR) mm.,Waterstatus
+C01,Paddy,2019,699.45,1244,870.8,-171.35,Water Surplus
+C01,Paddy,2020,713.1,1320,924.0,-210.9,Water Surplus
+C02,Wheat,2019,231.85,43,30.1,201.75,Irrigation Needed
+C02,Wheat,2020,221.0,39,27.3,193.7,Irrigation Needed
+C03,Maize,2019,328.15,1142,799.4,-471.25,Water Surplus
+C03,Maize,2020,340.8,1025,717.5,-376.7,Water Surplus
+C04,Mustard,2019,242.55,240,168.0,74.55,Irrigation Needed
+C04,Mustard,2020,259.05,103,72.1,186.95,Irrigation Needed
+C05,Arhar,2019,457.5,1244,870.8,-413.3,Water Surplus
+C05,Arhar,2020,429.45,1320,924.0,-494.55,Water Surplus
+C06,Soybean,2019,328.15,1142,799.4,-471.25,Water Surplus
+C06,Soybean,2020,340.8,1025,717.5,-376.7,Water Surplus
+C07,Tomato,2019,587.65,1244,870.8,-283.15,Water Surplus
+C07,Tomato,2020,599.45,1320,924.0,-324.55,Water Surplus
+C08,Potato,2019,275.4,240,168.0,107.4,Irrigation Needed
+C08,Potato,2020,297.05,103,72.1,224.95,Irrigation Needed
+C09,Chana,2019,211.8,58,40.6,171.2,Irrigation Needed
+C09,Chana,2020,201.85,59,41.3,160.55,Irrigation Needed

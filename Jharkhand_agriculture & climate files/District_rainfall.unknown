@@ -1,0 +1,33 @@
+District,Year,Water Source,Usage (Million Liters),Recharge (Million Liters)
+Ranchi,2019,Groundwater,480,360.0
+Ranchi,2019,Surface Water,140,
+Ranchi,2020,Groundwater,510,370.0
+Ranchi,2020,Surface Water,160,
+Dhanbad,2019,Groundwater,460,300.0
+Dhanbad,2019,Surface Water,130,
+Dhanbad,2020,Groundwater,495,310.0
+Dhanbad,2020,Surface Water,150,
+Bokaro,2019,Groundwater,430,320.0
+Bokaro,2019,Surface Water,110,
+Bokaro,2020,Groundwater,455,330.0
+Bokaro,2020,Surface Water,135,
+Hazaribagh,2019,Groundwater,400,310.0
+Hazaribagh,2019,Surface Water,100,
+Hazaribagh,2020,Groundwater,420,315.0
+Hazaribagh,2020,Surface Water,120,
+Palamu,2019,Groundwater,390,290.0
+Palamu,2019,Surface Water,90,
+Palamu,2020,Groundwater,410,295.0
+Palamu,2020,Surface Water,105,
+Deoghar,2019,Groundwater,370,275.0
+Deoghar,2019,Surface Water,80,
+Deoghar,2020,Groundwater,395,280.0
+Deoghar,2020,Surface Water,100,
+Giridih,2019,Groundwater,385,290.0
+Giridih,2019,Surface Water,85,
+Giridih,2020,Groundwater,405,295.0
+Giridih,2020,Surface Water,110,
+East Singhbhum,2019,Groundwater,415,325.0
+East Singhbhum,2019,Surface Water,115,
+East Singhbhum,2020,Groundwater,440,330.0
+East Singhbhum,2020,Surface Water,130,
