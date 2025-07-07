@@ -1,7 +1,10 @@
 # Data_analysis_project
 1.Project Title: Jharkhand Rainfall & Crop Irrigation Dashboard (2019–2020)
+
 2.Tool Used: Power BI
+
 3.Domain: Agriculture, Public Sector, Environmental Analytics
+
 
 4.🧩 Project Overview:
 Developed an interactive Power BI dashboard to analyze the interrelationship between rainfall patterns, crop irrigation requirements, and climatic conditions in Jharkhand using real-world data from IMD and FAO.
